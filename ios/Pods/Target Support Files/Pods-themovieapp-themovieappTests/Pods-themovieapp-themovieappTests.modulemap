@@ -1,0 +1,6 @@
+module Pods_themovieapp_themovieappTests {
+  umbrella header "Pods-themovieapp-themovieappTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
